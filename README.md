@@ -5,10 +5,6 @@ Then answer in the space below each question:
 
 1. First name: Patrick
 
-2. Last name: Hu
-
-3. Favourite animal: Dog
-
+2. Favourite animal: Cat
 
 Now click the green 'commit changes' button at the bottom.
-
